@@ -18,6 +18,7 @@
 - 1 Emerald -> 8 Steak
 - 1 Emerald -> 16 Apples
 - 1 Emerald -> 1 Sapling
+- 4 Emeralds -> 1 Pumpkin
 
 ## Brewing Items Merchant
 - 1 Emerald -> 3 Nether Wart

@@ -30,9 +30,9 @@
 - 1 Emerald -> 8 Sand
 
 ## Exotic or Misc Items
-- 8 Zombie Head -> 1 Emerald
-- 8 Skeleton Head -> 1 Emerald
-- 8 Creeper Head -> 1 Emerald
+- 8 Zombie Heads -> 1 Emerald
+- 8 Skeleton Heads -> 1 Emerald
+- 8 Creeper Heads -> 1 Emerald
 - 5 Emeralds -> 1 Blaze Rod
 - 32 Emeralds -> 1 Water Bucket
 - 1 Emerald -> 5 Feathers

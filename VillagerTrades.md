@@ -17,8 +17,9 @@
 ## Food Merchant
 - 1 Emerald -> 8 Steak
 - 1 Emerald -> 16 Apples
-- 1 Emerald -> 1 Sapling
+- 32 Logs + 1 Emerald -> 1 Sapling
 - 4 Emeralds -> 1 Pumpkin
+- 16 Logs + 4 Emeralds -> 64 Oak Leaves
 
 ## Brewing Items Merchant
 - 1 Emerald -> 3 Nether Wart
@@ -28,13 +29,14 @@
 - 1 Emerald -> 1 Glowstone Block
 - 1 Emerald -> 3 Sugar Cane
 - 1 Emerald -> 8 Sand
+- 1 Emerald -> 4 Slimeballs
 
 ## Exotic or Misc Items
-- 8 Zombie Heads -> 1 Emerald
-- 8 Skeleton Heads -> 1 Emerald
-- 8 Creeper Heads -> 1 Emerald
+- 4 Zombie Heads -> 1 Emerald
+- 4 Skeleton Heads -> 1 Emerald
+- 4 Creeper Heads -> 1 Emerald
 - 5 Emeralds -> 1 Blaze Rod
-- 32 Emeralds -> 1 Water Bucket
+- 16 Emeralds -> 1 Water Bucket
 - 1 Emerald -> 5 Feathers
 - 1 Emerald -> 4 Leather
-- 1 Emerald -> 16 Lapis
+- 1 Emerald -> 24 Lapis

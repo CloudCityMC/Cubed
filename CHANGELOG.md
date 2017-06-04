@@ -2,6 +2,7 @@
 
 Date | Changes
 -----|------
+Jun 4, 17 | Added a server-wide nether portal at spawn! You must buy the materials, which cost 64 emeralds, 64 diamonds, a diamond pickaxe, and a lava bucket.
 May 30, 17 | 1) Added a MobFarm warp.<br/>2) Removed Daily, Weekly, Monthly Warp
 Mar 29, 17 | 1) Villager trades changed.<br/>2) Added `/trade` (untested)
 Mar 28, 17 | Chance for heads to drop from Mobs is now 10% (instead of 0%)

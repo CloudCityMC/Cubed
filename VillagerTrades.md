@@ -6,6 +6,7 @@
 - [Food Merchant](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#food-merchant)
 - [Brewing Items Merchant](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#brewing-items-merchant)
 - [Exotic or Misc Items](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#exotic-or-misc-items)
+- [Portal Merchant](http://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#portal-merchant)
 
 ## Mineral Merchant
 - 4 Diamonds -> 1 Emerald
@@ -40,3 +41,11 @@
 - 1 Emerald -> 5 Feathers
 - 1 Emerald -> 4 Leather
 - 1 Emerald -> 24 Lapis
+
+## [SPECIAL] Portal Merchant 
+- 64 Emeralds + 64 Diamonds -> Portal Shard: Value
+- 1 Diamond Pickaxe + 1 Lava Bucket -> Portal Shard: Strength
+- Portal Shard: Strength + Portal Shard: Value -> Portal Block
+
+## [SPECIAL] Time Lord Merchant
+- 1 Stick + 1 Gold Ingot -> 1 "Sonic Screwdriver"

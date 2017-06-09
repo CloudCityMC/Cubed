@@ -15,6 +15,7 @@
 - 16 Iron Ingots -> 1 Gold
 - 64 Logs + 64 Cobblestone -> 8 Iron Ingots
 - 1 Emerald -> 16 Gravel
+- 3 Emeralds -> 8 Exp Bottles
 
 ## Food Merchant
 - 1 Emerald -> 8 Steak
@@ -33,15 +34,16 @@
 - 1 Emerald -> 8 Sand
 - 1 Emerald -> 4 Slimeballs
 
-## Exotic or Misc Items
+## Exotic or Misc Items Merchant
 - 4 Zombie Heads -> 1 Emerald
 - 4 Skeleton Heads -> 1 Emerald
 - 4 Creeper Heads -> 1 Emerald
 - 5 Emeralds -> 1 Blaze Rod
 - 16 Emeralds -> 1 Water Bucket
-- 1 Emerald -> 5 Feathers
-- 1 Emerald -> 4 Leather
 - 1 Emerald -> 24 Lapis
+
+## Farmer Merchant
+- 8 Emeralds -> 1 Saddle
 
 ## [SPECIAL] Portal Merchant 
 - 64 Emeralds + 64 Diamonds -> Portal Shard: Value

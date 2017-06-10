@@ -44,6 +44,8 @@
 
 ## Farmer Merchant
 - 8 Emeralds -> 1 Saddle
+- 1 Emerald -> 8 Leather
+- 1 Emerald -> 12 Feathers
 
 ## [SPECIAL] Portal Merchant 
 - 64 Emeralds + 64 Diamonds -> Portal Shard: Value

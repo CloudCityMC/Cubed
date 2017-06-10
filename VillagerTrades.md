@@ -16,7 +16,6 @@
 - 16 Iron Ingots -> 1 Gold
 - 64 Logs + 64 Cobblestone -> 8 Iron Ingots
 - 1 Emerald -> 16 Gravel
-- 3 Emeralds -> 8 Exp Bottles
 
 ## Food Merchant
 - 1 Emerald -> 8 Steak
@@ -26,11 +25,10 @@
 - 16 Logs + 4 Emeralds -> 64 Oak Leaves
 
 ## Brewing Items Merchant
-- 1 Emerald -> 3 Nether Wart
-- 1 Emerald -> 1 Soul Sand
+- 1 Emerald -> 5 Nether Wart
 - 1 Emerald -> 1 Melon Seed
 - 2 Emeralds -> 1 Fermented Spider Eye
-- 1 Emerald -> 1 Glowstone Block
+- 1 Emerald -> 4 Glowstone Blocks
 - 1 Emerald -> 3 Sugar Cane
 - 1 Emerald -> 8 Sand
 - 1 Emerald -> 4 Slimeballs
@@ -39,17 +37,18 @@
 - 4 Zombie Heads -> 1 Emerald
 - 4 Skeleton Heads -> 1 Emerald
 - 4 Creeper Heads -> 1 Emerald
-- 5 Emeralds -> 1 Blaze Rod
-- 16 Emeralds -> 1 Water Bucket
+- 1 Emerald -> 4 Blaze Rods
+- 8 Emeralds -> 1 Water Bucket
 - 1 Emerald -> 24 Lapis
+- 3 Emeralds -> 8 Exp Bottles
 
 ## Farmer Merchant
 - 8 Emeralds -> 1 Saddle
 
 ## [SPECIAL] Portal Merchant 
 - 64 Emeralds + 64 Diamonds -> Portal Shard: Value
-- 16 End Portal + 16 Blaze Rod -> Portal Shard: Strength
-- Portal Shard: Strength + Portal Shard: Value -> Portal Block
+- 16 Ender Pearl + 16 Blaze Rod -> Portal Shard: Strength
+- Portal Shard: Strength + Portal Shard: Value -> Portal Button
 
 ## [SPECIAL] Time Lord Merchant
 - 1 Stick + 1 Gold Ingot -> 1 "Sonic Screwdriver"

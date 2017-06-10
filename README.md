@@ -8,4 +8,4 @@ IP: `cubed.chew.pw`
 
 [View the rules](https://github.com/ChewCraft/Cubed/blob/master/rules.md) | [See Villager Trades](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md) | [See Beta Changelog](https://github.com/ChewCraft/Cubed/blob/master/CHANGELOG.md)
 ---|----|---
-[Custom Recipes](https://github.com/ChewCraft/Cubed/blob/master/CustomRecipes.md)
+[Custom Recipes](https://github.com/ChewCraft/Cubed/blob/master/CustomRecipes.md) | [FAQ](https://github.com/ChewCraft/Cubed/blob/master/FAQ.md) | [Report an Issue](http://github.com/chewcraft/cubed/issues/new)

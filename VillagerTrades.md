@@ -47,7 +47,7 @@
 
 ## [SPECIAL] Portal Merchant 
 - 64 Emeralds + 64 Diamonds -> Portal Shard: Value
-- 1 Diamond Pickaxe + 1 Lava Bucket -> Portal Shard: Strength
+- 16 End Portal + 16 Blaze Rod -> Portal Shard: Strength
 - Portal Shard: Strength + Portal Shard: Value -> Portal Block
 
 ## [SPECIAL] Time Lord Merchant

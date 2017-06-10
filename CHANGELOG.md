@@ -2,6 +2,7 @@
 
 Date | Changes
 -----|------
+Jun 10, 17 | 1) Emeralds are now officially a currency! Use emeralds to buy stuff!<br/>2) ChestShops are official! You can make player shops!
 Jun 9, 17 | 1) Added `/kit`s! Now with `/kit daily`, `/kit weekly`, `/kit food`.<br/>2) New Animal Farm (with new Villager) at spawn!<br/>3) Nether portal finished! New end portal at spawn.
 Jun 7, 17 | 1) Added Iron and Gold Blocks (salvage & repair anvils) to spawn.<br/>2) Added secret TARDIS at spawn, with Time-Lord Merchant! Whoosh Whoosh!
 Jun 4, 17 | Added a server-wide nether portal at spawn!<br/>You must buy the materials, which are a stack of emeralds and diamonds, a diamond pickaxe, and a lava bucket.

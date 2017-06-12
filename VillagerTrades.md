@@ -20,9 +20,9 @@
 ## Food Merchant
 - 1 Emerald -> 8 Steak
 - 1 Emerald -> 16 Apples
-- 32 Logs + 1 Emerald -> 1 Sapling
 - 4 Emeralds -> 1 Pumpkin
-- 16 Logs + 4 Emeralds -> 64 Oak Leaves
+- 1 Emerald -> 3 Cookies
+- 2 Cool Cookies -> 1 Cookie
 
 ## Brewing Items Merchant
 - 1 Emerald -> 5 Nether Wart
@@ -40,12 +40,16 @@
 - 1 Emerald -> 4 Blaze Rods
 - 8 Emeralds -> 1 Water Bucket
 - 1 Emerald -> 24 Lapis
-- 3 Emeralds -> 8 Exp Bottles
+- 1 Emeralds -> 10 Exp Bottles
 
 ## Farmer Merchant
 - 8 Emeralds -> 1 Saddle
 - 1 Emerald -> 8 Leather
 - 1 Emerald -> 12 Feathers
+- 1 Emerald -> 1 Cocoa Bean
+- 1 Emerald -> 1 Jungle Sapling
+- 32 Logs + 1 Emerald -> 1 Sapling
+- 16 Logs + 4 Emeralds -> 64 Oak Leaves
 
 ## [SPECIAL] Portal Merchant 
 - 64 Emeralds + 64 Diamonds -> Portal Shard: Value

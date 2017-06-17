@@ -6,6 +6,5 @@
 4) Raiding is only allowed if the players chest is not protected by a plugin. If a block is protected with a "magical spell", it may not be broken under any circumstances unless the player who owns the block breaks it.
 5) Surface bases bigger than 10x10 (or at least 100 blocks) cannot be impenetrable (meaning a player attempting to get in can't get in) this includes via LWC or the Factions plugin, containers inside stated base may be protected as normal.
 6) A small base can NOT be surrounded by a bigger base. If Player A cannot access their base without greifing Player B's base, it is bannable.
-7) If a player enters combat (a player attacks another player, or vice versa) neither of the players may log out for 10 seconds after the last attack
-8) When in combat (when a player attacks another player, or vice versa), neither of the players may enter a Non-PvP zone, this includes: Entering Cubed's safezone, Entering a TARDIS, teleporting away. This ban wears off until combat is not enabled (10 seconds after the last attack)
-9) If the Player is AFK, they must not bypass the 15 minute AFK timer in any way.
+7) If a player enters combat (a player attacks another player, or vice versa) neither of the players may log out for 10 seconds after the last attack, nor may they enter a Non-PvP zone, this includes: Entering Cubed's safezone, Entering a TARDIS, teleporting away. This ban wears off until combat is not enabled (10 seconds after the last attack)
+8) If the Player is AFK, they must not bypass the 15 minute AFK timer in any way.

@@ -1,4 +1,4 @@
-# Changelog (BETA)
+# Beta Changelog
 
 Date | Changes
 -----|------

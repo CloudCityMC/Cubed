@@ -11,5 +11,5 @@ A: The economy is simple. Instead of virtual currency, you have an actual item c
 ### Q: How do I set up an emerald vault?
 A: Simple! On a chest, place a sign and on the top line put [vault]. It will create an emerald vault!
 
-### Q: How do I go to the end?
-A: Currently, we as a server are working to create an end portal. You must bring materials to the portal merchant at spawn and trade the portal shards.
+### Q: How do I go to the nether/end?
+A: Currently, we as a server are working to create an end/nether portal. You must bring materials to the portal merchant at spawn and trade the portal shards.

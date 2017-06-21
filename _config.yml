@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+
+title: ChewCraft Cubed Survival
+description: A fun faction server trapped in a cube.
+show_downloads: false
+
+gems:
+  - jekyll-mentions

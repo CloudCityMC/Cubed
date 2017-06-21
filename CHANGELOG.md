@@ -5,6 +5,17 @@ Welcome to Cubed Survival's Official Changelog. These will go in order of newest
 Changes:
 -
 
+More Crates! and Chat Improvements:
+- Kit Daily moved to a Crate Key at spawn. Check out `/warp rewards`
+- Daily Crate added, has some pretty cool rewards!
+   - Please Note: Weekly and Monthly Crates are SOON
+- Saying `[i]` in chat while holding an item shows that item in chat!
+- Factions are shown in chat.
+   - Clicking on the faction name paste `/f f [faction name]`
+   - Hovering over faction name shows relation.
+- Essentials Nicknames are shown in chat.
+- Prefix is now %vault_prefix% instead of %vault_groupprefix%. Thanks Jensai! (this probably means nothing to you)
+
 Voting Improvements:
 #### [Click for Vote Links](http://mc.chew.pw/index.php?threads/official-vote-links.6/)
 - Upon voting, you get a vote crate key!

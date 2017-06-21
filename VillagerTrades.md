@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Mineral Merchant](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#mineral-merchant)
-- [Food Merchant](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#food-merchant)
-- [Brewing Items Merchant](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#brewing-items-merchant)
-- [Exotic or Misc Items](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#exotic-or-misc-items)
-- [Farmer Merchant](https://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#farmer-merchant)
-- [Portal Merchant](http://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#portal-merchant)
-- [Time Lord Merchant](http://github.com/ChewCraft/Cubed/blob/master/VillagerTrades.md#time-lord-merchant)
+- [Mineral Merchant](#mineral-merchant)
+- [Food Merchant](#food-merchant)
+- [Brewing Items Merchant](#brewing-items-merchant)
+- [Exotic or Misc Items](#exotic-or-misc-items)
+- [Farmer Merchant](#farmer-merchant)
+- [Portal Merchant](#portal-merchant)
+- [Time Lord Merchant](#time-lord-merchant)
 
 ## Mineral Merchant
 - 4 Diamonds -> 1 Emerald

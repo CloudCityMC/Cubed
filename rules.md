@@ -6,14 +6,14 @@
 2) Bypassing our swear filter is an immediant mute. This is mostly based on assumptions, and if you think you were unfairly muted, report it on the [forums](http://mc.chew.pw/index.php?forums/ban-appeals.11/) and the admins will decide to modify the punishment at their discretion.<br/>
 3) Death wishes are strictly forbidden. Saying terms such as, but not limited to, "kys", "go die", result in a mute.<br/>
 4) Racism/Sexual misconduct is not allowed. Saying stuff like "omg i hate girls, too fat" will result in mute. This is mostly assumed but severe conduts are immediantly muted.<br/>
-5) Bypassing your mute in any way (namely irc) will result in a tempban in place of the mute time. E.g. if you were muted for 10 minutes and you bypassed, your remaining time will be as a tempban.
-6) Bullying is not allowed. Being mean to someone specifically in chat will result in a mute.
-7) Do not spam the chat. Saying 3 messages in the span of 5 seconds counts as spam.
-8) Disrespecting staff in any way, such as accusing of abuse, hacking, breaking rules, etc, will result in a mute at the staff's discretion.
-9) NO ADVERTISING! If an IP is said in chat, the mute AND ban chart will be bypassed and a ban will be issued.
-10) Impersonating Staff/YouTubers in any way will result in a ban chart ban.
-11) Selling items outside of the server (like alts, etc) will bypass the ban chart and result in a ban!
-12) Discussing other servers follows the mute chart.
+5) Bypassing your mute in any way (namely irc) will result in a tempban in place of the mute time. E.g. if you were muted for 10 minutes and you bypassed, your remaining time will be as a tempban.<br/>
+6) Bullying is not allowed. Being mean to someone specifically in chat will result in a mute.<br/>
+7) Do not spam the chat. Saying 3 messages in the span of 5 seconds counts as spam.<br/>
+8) Disrespecting staff in any way, such as accusing of abuse, hacking, breaking rules, etc, will result in a mute at the staff's discretion.<br/>
+9) NO ADVERTISING! If an IP is said in chat, the mute AND ban chart will be bypassed and a ban will be issued.<br/>
+10) Impersonating Staff/YouTubers in any way will result in a ban chart ban.<br/>
+11) Selling items outside of the server (like alts, etc) will bypass the ban chart and result in a ban!<br/>
+12) Discussing other servers follows the mute chart.<br/>
 
 ## Playing Rules
 All rules except rule 1 go immediantly to the ban chart.

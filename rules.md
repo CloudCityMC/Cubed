@@ -24,7 +24,8 @@ All rules except rule 1 go immediantly to the ban chart.
 4) Surface bases bigger than 10x10 (or at least 100 blocks) cannot be impenetrable (meaning a player attempting to get in can't get in) this includes via LWC or the Factions plugin, containers inside stated base may be protected as normal.<br/>
 5) A small base can NOT be surrounded by a bigger base. If Player A cannot access their base without greifing Player B's base, it is bannable.<br/>
 6) If a player enters combat (a player attacks another player, or vice versa) neither of the players may log out for 10 seconds after the last attack, nor may they enter a Non-PvP zone, this includes: Entering a TARDIS, teleporting away (altough ender pearls are allowed). This ban wears off until combat is not enabled (10 seconds after the last attack)<br/>
-7) If the Player is AFK, they must not bypass the 5 minute AFK timer in any way.
+7) If the Player is AFK, they must not bypass the 5 minute AFK timer in any way.<br/>
+8) Using an alt is against the rules. If found, the alt will be punished with a permanent ban and the owner will be punished with a 7-day + any previous alting bans day ban. This bypasses the Ban Chart.
 
 ## Ban Times and Punishments Table
 

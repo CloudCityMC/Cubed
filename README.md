@@ -2,7 +2,7 @@
 
 A faction server, survival trapped in a cube.
 
-IP: `cubed.chew.pw`
+IP: `mc.chew.pw`
 
 Note: Server chat is relayed to IRC.
 
